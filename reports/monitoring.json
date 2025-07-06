@@ -1,0 +1,79 @@
+{
+    "total_products": 453,
+    "percent_valid_products": 95.81,
+    "nutriscore_distribution": {
+        "e": 254,
+        "d": 105,
+        "c": 73,
+        "b": 13,
+        "a": 8
+    },
+    "average_health_score": 1.71,
+    "missing_values_report": {
+        "product_name": {
+            "missing_count": 0,
+            "missing_rows": []
+        },
+        "brands": {
+            "missing_count": 8,
+            "missing_rows": [
+                114,
+                163,
+                308,
+                325,
+                367,
+                373,
+                413,
+                450
+            ]
+        },
+        "code": {
+            "missing_count": 0,
+            "missing_rows": []
+        },
+        "categories": {
+            "missing_count": 0,
+            "missing_rows": []
+        },
+        "nutriscore_grade": {
+            "missing_count": 0,
+            "missing_rows": []
+        },
+        "nova_group": {
+            "missing_count": 19,
+            "missing_rows": [
+                4,
+                14,
+                37,
+                84,
+                112,
+                114,
+                162,
+                170,
+                173,
+                183,
+                226,
+                235,
+                291,
+                304,
+                308,
+                360,
+                367,
+                373,
+                425
+            ]
+        },
+        "ecoscore_grade": {
+            "missing_count": 0,
+            "missing_rows": []
+        },
+        "url": {
+            "missing_count": 0,
+            "missing_rows": []
+        },
+        "health_score": {
+            "missing_count": 0,
+            "missing_rows": []
+        }
+    }
+}

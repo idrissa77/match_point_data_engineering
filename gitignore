@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Environnement virtuel
+venv/
+airflow-env/
+env/
+.env/
+
+# Logs
+logs/
+*.log
+
+# Airflow
+airflow.cfg
+unittests.cfg
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+

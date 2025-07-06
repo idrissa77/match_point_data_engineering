@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  pipeline:
+    build: .
+    container_name: match_point_pipeline
+    volumes:
+      - ./storage:/app/storage
+      - ./reports:/app/reports
+    command: python run_pipeline.py
+    
