@@ -1,4 +1,4 @@
-# Projet Match Point Data Engineering — Pipeline BuySmart
+# Projet Match Point Data Engineering — Pipeline Open Food Facts
 
 ## Contexte du projet
 Ce projet a été réalisé dans le cadre d’une simulation professionnelle visant à reproduire un environnement de travail réel autour du développement de BuySmart, une application mobile imaginée par l’entreprise Match Point.
